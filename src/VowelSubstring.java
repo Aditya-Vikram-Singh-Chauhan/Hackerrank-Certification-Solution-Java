@@ -30,7 +30,7 @@ public class VowelSubstring {
 			}
 			else if(i+k == inp.length()) {
 				j = i;
-				//System.out.println(j);
+				//n .e98A7System.out.println(j);
 			}
 		}
 		sub.add(inp.substring(j));
